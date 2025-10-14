@@ -1,0 +1,18 @@
+{
+  "mirage": {
+    "load_time": 29.824859142303467,
+    "inference_time": 1.0299315452575684,
+    "total_tokens": 329,
+    "throughput": 319.4387059168313,
+    "avg_latency": 1.0299315452575684
+  },
+  "vllm": {
+    "load_time": 15.068716526031494,
+    "inference_time": 1.206153392791748,
+    "total_tokens": 100,
+    "throughput": 82.90819442835642,
+    "avg_latency": 1.206153392791748
+  },
+  "prompt": "What is artificial intelligence?",
+  "max_tokens": 100
+}
